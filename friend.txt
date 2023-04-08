@@ -1,1 +1,2 @@
-hello friend2
+hello friend2 
+person2 is me
